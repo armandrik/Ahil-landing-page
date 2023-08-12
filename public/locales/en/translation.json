@@ -1,0 +1,73 @@
+{
+  "navbar": {
+    "know-us": "Get to know Ahil",
+    "why-Ahli": "Why choose us",
+    "Advantages": "Advantages",
+    "fab": "go up",
+    "changeLocalTitle": "change local",
+    "darkMoodTitle": "dark mood",
+    "lightMoodTitle": "light mood"
+  },
+  "header": {
+    "download-button": "Download App",
+    "ahil-header": "Ahil Platform",
+    "ahil-title": "Make plans for the future",
+    "word-piece": "In Ahil you can plan training, work , exercises etc ... for yourself and others."
+  },
+  "video": {
+    "title": "Get to know Ahil",
+    "sidebar": {
+      "manager": "CEO : Dr hamun mehdi zadeh",
+      "title": "Describtion : Getting to know the Ahil application, how it works and how to download the application",
+      "exonUrl": "Company Address : ",
+      "url": "exontech.ir",
+      "update": "Last update :"
+    }
+  },
+  "describe": {
+    "header": "Why choose us",
+    "security": {
+      "header": "Information security",
+      "title": "sit amet volutpat consequat mauris nunc congue nisi vitae suscipit tellus mauris a diam maecenas sed enim ut sem viverra aliquet eget sit amet tellus cras adipiscing enim eu turpis egestas pretium aenean"
+    },
+    "time": {
+      "header": "Time management",
+      "title": "sit amet volutpat consequat mauris nunc congue nisi vitae suscipit tellus mauris a diam maecenas sed enim ut sem viverra aliquet eget sit amet tellus cras adipiscing enim eu turpis egestas pretium aenean"
+    },
+    "simple": {
+      "header": "Easy to use",
+      "title": "sit amet volutpat consequat mauris nunc congue nisi vitae suscipit tellus mauris a diam maecenas sed enim ut sem viverra aliquet eget sit amet tellus cras adipiscing enim eu turpis egestas pretium aenean"
+    }
+  },
+  "features": {
+    "header": "Advantages",
+    "game": {
+      "header": "Game and entertainment",
+      "title": "aenean sed adipiscing diam donec adipiscing tristique risus nec feugiat in fermentum posuere urna"
+    },
+    "online-payment": {
+      "header": "Online payment",
+      "title": "aenean sed adipiscing diam donec adipiscing tristique risus nec feugiat in fermentum posuere urna"
+    },
+    "education": {
+      "header": "Educational materials",
+      "title": "aenean sed adipiscing diam donec adipiscing tristique risus nec feugiat in fermentum posuere urna"
+    }
+  },
+  "exon": {
+    "title": "Design and production",
+    "name": "Danesh Bonyan Rahpoiyan Arman negaresh Novin Exon Company"
+  },
+  "contact": {
+    "header": "Get in touch with us",
+    "placeHolder": "Email us your opinion",
+    "sendButton": "Send"
+  },
+  "footer": {
+    "about": "About us",
+    "contact-us": "contact-us",
+    "blog": "blog",
+    "creators": "creators",
+    "social-media": "Follow us in social media : "
+  }
+}

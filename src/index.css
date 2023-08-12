@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'IRANSansWeb';
+  src: url(./fonts/IRANSansWeb.eot), url(./fonts/IRANSansWeb.ttf), url(./fonts/IRANSansWeb.woff);
+}
+
+
+body {
+  margin: 0;
+  font-family: IRANSansWeb;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* direction: ltr; */
+}
+
+code {
+  font-family: IRANSansWeb;
+}
